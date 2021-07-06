@@ -6,7 +6,7 @@ This is a place for you to start building your personality quiz!
 Your project should:
 - Have at least three questions.
 - Have at least two answers to each question that correspond to the quiz outcomes.
-- Allow a person to select an answer by clicking a button.
+- Allow a person to select an answer by clicking a button 
 - Display different outcomes for different combinations of answer selections.
 - Allow a person to restart the quiz by clicking a button.
 
