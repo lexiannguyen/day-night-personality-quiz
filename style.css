@@ -1,0 +1,62 @@
+/* STYLE SECTIONING TAGS */
+body {
+  /*padding: 32em;*/
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  background: linear-gradient(#ff99dd, #92e9ff);
+  text-align: center;
+}
+
+
+/* STYLE TEXT */
+h1 {
+  font-style: italic;
+  color: #302f2e;
+}
+
+h2 {
+  margin-top: 2em; 
+}
+
+/* STYLE FLEX CONTAINER */
+.question {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2em;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+  
+/* STYLE FLEX ITEM */
+.answer {
+  margin: 5px;
+}
+
+
+
+/* STYLE IMAGES */
+.answer img {
+  height: 16em;
+  width: auto;
+  border: 1px solid #ffffff;
+  border-radius: 10%
+}
+
+/* STYLE BUTTON */
+button { 
+  margin-top: 5px;
+  background-color: white;
+}
+
+button:hover {
+  background-color: aquamarine;
+}
+
+main button:focus {
+  background-color: #FFB6C1;
+}
+
+main button:active {
+  background-color: #FFB6C1;
+}
